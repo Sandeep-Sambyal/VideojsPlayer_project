@@ -18,12 +18,12 @@
 You can click on the project list and it will navigate to the video player.** 
 
 <!-- Italics -->
-Following Django functionalities are implemented in the project:
-1.Python Django Framework
-2.Django Rest APis
-3.Django Serializers
-4.Ajax calls
-5.Static and media file handling.
+Following Django functionalities are implemented in the project:\
+1.Python Django Framework\
+2.Django Rest APis\
+3.Django Serializers\
+4.Ajax calls\
+5.Static and media file handling.\
 
 
 Django Superadmin credentials (Username/pwd):
